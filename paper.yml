@@ -1,0 +1,27 @@
+name: htf-test-bot
+on:
+  schedule:
+    - cron: '15 * * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - run: python paper_htf.py
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT:  ${{ secrets.TELEGRAM_CHAT }}
+      - name: commit ledgers
+        run: |
+          git config user.name  "htf-bot"
+          git config user.email "htf-bot@users.noreply.github.com"
+          git add ledger_mod.json ledger_mod_htf.json STATUS.txt
+          git commit -m "update $(date -u +%Y-%m-%dT%H:%M)" || echo "nothing to commit"
+          git push
