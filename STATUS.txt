@@ -1,4 +1,3 @@
-=== HTF TEST BOT — 2026-07-21 20:36 UTC ===
-[MOD] NEW SELL ETHUSDT @ 1919.9300 tgt 1835.2700 sl 1956.9060 RR 2.29 (07-21 19:00)
+=== HTF TEST BOT — 2026-07-21 22:12 UTC ===
 MOD: 1 closed | win 0% | PF 0.0 | exp -1.638% | 2 open | equity $9,891 (-1.1%)
 MOD_HTF: 0 closed, 1 open, equity $10,000
