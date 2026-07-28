@@ -1,3 +1,4 @@
-=== HTF TEST BOT — 2026-07-28 16:51 UTC ===
-MOD: 2 closed | win 0% | PF 0.0 | exp -1.852% | 1 open | equity $9,785 (-2.2%)
+=== HTF TEST BOT — 2026-07-28 18:46 UTC ===
+[MOD] NEW BUY XRPUSDT @ 1.0639 tgt 1.1110 sl 1.0429 RR 2.24 (07-28 17:00)
+MOD: 2 closed | win 0% | PF 0.0 | exp -1.852% | 2 open | equity $9,785 (-2.2%)
 MOD_HTF: 0 closed, 1 open, equity $10,000
