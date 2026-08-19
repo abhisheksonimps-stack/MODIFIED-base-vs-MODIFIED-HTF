@@ -1,6 +1,7 @@
 {
-  "equity": 10000.0,
-  "open": [
+  "equity": 9897.15105595561,
+  "open": [],
+  "closed": [
     {
       "symbol": "SOLUSDT",
       "side": "SELL",
@@ -10,9 +11,12 @@
       "sl": 82.95558,
       "rr": 2.59,
       "opened_at": "2026-07-08T06:39:11.849857+00:00",
-      "status": "OPEN"
+      "status": "LOSS",
+      "net_pct": -5.054,
+      "r_mult": -1.028,
+      "closed_ts": 1787151600000,
+      "equity_after": 9897.15
     }
   ],
-  "closed": [],
-  "last_scan_ts": 1787148000000
+  "last_scan_ts": 1787151600000
 }
