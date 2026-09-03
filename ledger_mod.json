@@ -1,18 +1,6 @@
 {
-  "equity": 9369.84668128383,
-  "open": [
-    {
-      "symbol": "ETHUSDT",
-      "side": "SELL",
-      "entry_ts": 1788346800000,
-      "entry": 2372.73,
-      "target": 2221.54,
-      "sl": 2433.858,
-      "rr": 2.47,
-      "opened_at": "2026-09-02T16:35:44.139067+00:00",
-      "status": "OPEN"
-    }
-  ],
+  "equity": 9271.0564459128,
+  "open": [],
   "closed": [
     {
       "symbol": "BNBUSDT",
@@ -103,7 +91,22 @@
       "r_mult": -1.105,
       "closed_ts": 1788130800000,
       "equity_after": 9369.85
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry_ts": 1788346800000,
+      "entry": 2372.73,
+      "target": 2221.54,
+      "sl": 2433.858,
+      "rr": 2.47,
+      "opened_at": "2026-09-02T16:35:44.139067+00:00",
+      "status": "LOSS",
+      "net_pct": -2.716,
+      "r_mult": -1.054,
+      "closed_ts": 1788440400000,
+      "equity_after": 9271.06
     }
   ],
-  "last_scan_ts": 1788429600000
+  "last_scan_ts": 1788447600000
 }
