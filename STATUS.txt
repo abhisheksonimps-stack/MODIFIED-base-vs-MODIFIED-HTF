@@ -1,5 +1,3 @@
-=== HTF TEST BOT — 2026-09-08 09:42 UTC ===
-[MOD] NEW SELL BTCUSDT @ 78577.9900 tgt 76264.0000 sl 79643.9700 RR 2.17 (09-08 06:00)
-[MOD_HTF] NEW SELL BTCUSDT @ 78577.9900 tgt 76264.0000 sl 79643.9700 RR 2.17 (09-08 06:00)
+=== HTF TEST BOT — 2026-09-08 14:33 UTC ===
 MOD: 7 closed | win 0% | PF 0.0 | exp -2.366% | 1 open | equity $9,271 (-7.3%)
 MOD_HTF: 3 closed | win 0% | PF 0.0 | exp -3.082% | 1 open | equity $9,685 (-3.2%)
