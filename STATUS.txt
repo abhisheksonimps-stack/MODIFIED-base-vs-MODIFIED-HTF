@@ -1,3 +1,5 @@
-=== HTF TEST BOT — 2026-10-07 01:33 UTC ===
-MOD: 10 closed | win 0% | PF 0.0 | exp -2.344% | 2 open | equity $8,965 (-10.4%)
-MOD_HTF: 6 closed | win 0% | PF 0.0 | exp -2.687% | 1 open | equity $9,365 (-6.4%)
+=== HTF TEST BOT — 2026-10-07 08:40 UTC ===
+[MOD] NEW SELL XRPUSDT @ 1.4617 tgt 1.2900 sl 1.5270 RR 2.63 (10-07 03:00)
+[MOD_HTF] NEW SELL XRPUSDT @ 1.4617 tgt 1.2900 sl 1.5270 RR 2.63 (10-07 03:00)
+MOD: 10 closed | win 0% | PF 0.0 | exp -2.344% | 3 open | equity $8,965 (-10.4%)
+MOD_HTF: 7 closed | win 0% | PF 0.0 | exp -2.517% | 1 open | equity $9,262 (-7.4%)
