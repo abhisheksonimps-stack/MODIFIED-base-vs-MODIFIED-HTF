@@ -1,3 +1,3 @@
-=== HTF TEST BOT — 2026-10-14 23:55 UTC ===
-MOD: 11 closed | win 9% | PF 0.31 | exp -1.471% | 2 open | equity $9,190 (-8.1%)
-MOD_HTF: 7 closed | win 0% | PF 0.0 | exp -2.517% | 1 open | equity $9,262 (-7.4%)
+=== HTF TEST BOT — 2026-10-15 04:41 UTC ===
+MOD: 12 closed | win 17% | PF 0.8 | exp -0.381% | 1 open | equity $9,429 (-5.7%)
+MOD_HTF: 8 closed | win 12% | PF 0.66 | exp -0.751% | 0 open | equity $9,502 (-5.0%)
