@@ -1,6 +1,18 @@
 {
   "equity": 9648.273430491672,
-  "open": [],
+  "open": [
+    {
+      "symbol": "ETHUSDT",
+      "side": "BUY",
+      "entry_ts": 1793584800000,
+      "entry": 2289.77,
+      "target": 2402.05,
+      "sl": 2243.34432,
+      "rr": 2.42,
+      "opened_at": "2026-11-02T06:06:40.167449+00:00",
+      "status": "OPEN"
+    }
+  ],
   "closed": [
     {
       "symbol": "BNBUSDT",
@@ -198,5 +210,5 @@
       "equity_after": 9648.27
     }
   ],
-  "last_scan_ts": 1793570400000
+  "last_scan_ts": 1793595600000
 }
