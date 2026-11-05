@@ -1,3 +1,5 @@
-=== HTF TEST BOT — 2026-11-05 06:48 UTC ===
-MOD: 14 closed | win 21% | PF 1.05 | exp +0.093% | 0 open | equity $9,545 (-4.5%)
-MOD_HTF: 8 closed | win 12% | PF 0.66 | exp -0.751% | 0 open | equity $9,502 (-5.0%)
+=== HTF TEST BOT — 2026-11-05 15:28 UTC ===
+[MOD] NEW SELL BNBUSDT @ 712.3900 tgt 682.1600 sl 724.8668 RR 2.42 (11-05 08:00)
+[MOD_HTF] NEW SELL BNBUSDT @ 712.3900 tgt 682.1600 sl 724.8668 RR 2.42 (11-05 08:00)
+MOD: 14 closed | win 21% | PF 1.05 | exp +0.093% | 1 open | equity $9,545 (-4.5%)
+MOD_HTF: 8 closed | win 12% | PF 0.66 | exp -0.751% | 1 open | equity $9,502 (-5.0%)
