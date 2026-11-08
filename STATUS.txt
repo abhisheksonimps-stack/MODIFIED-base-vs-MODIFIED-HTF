@@ -1,3 +1,5 @@
-=== HTF TEST BOT — 2026-11-08 19:44 UTC ===
-MOD: 14 closed | win 21% | PF 1.05 | exp +0.093% | 1 open | equity $9,545 (-4.5%)
-MOD_HTF: 8 closed | win 12% | PF 0.66 | exp -0.751% | 1 open | equity $9,502 (-5.0%)
+=== HTF TEST BOT — 2026-11-08 23:43 UTC ===
+[MOD] NEW SELL ETHUSDT @ 2226.7800 tgt 2174.0800 sl 2250.4920 RR 2.22 (11-08 21:00)
+[MOD_HTF] NEW SELL ETHUSDT @ 2226.7800 tgt 2174.0800 sl 2250.4920 RR 2.22 (11-08 21:00)
+MOD: 15 closed | win 27% | PF 1.21 | exp +0.360% | 1 open | equity $9,769 (-2.3%)
+MOD_HTF: 9 closed | win 22% | PF 0.89 | exp -0.212% | 1 open | equity $9,725 (-2.8%)
