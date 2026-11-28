@@ -1,3 +1,3 @@
-=== HTF TEST BOT — 2026-11-28 03:54 UTC ===
+=== HTF TEST BOT — 2026-11-28 13:00 UTC ===
 MOD: 17 closed | win 29% | PF 1.15 | exp +0.253% | 0 open | equity $9,869 (-1.3%)
 MOD_HTF: 10 closed | win 30% | PF 1.02 | exp +0.032% | 0 open | equity $9,928 (-0.7%)
